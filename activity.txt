@@ -1,1 +1,1 @@
-Ehco and print
+Echo and print
